@@ -8,8 +8,6 @@ namespace DemoConsole
     {
 }
 
-class Class2
-    {
-}
+
     
 }
