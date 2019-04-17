@@ -6,5 +6,6 @@ namespace DemoConsole
 {
     class Class1
     {
+}
     
 }
