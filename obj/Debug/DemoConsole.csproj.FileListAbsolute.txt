@@ -3,3 +3,15 @@ c:\users\subodhsingh\documents\visual studio 2012\Projects\DemoConsole\DemoConso
 c:\users\subodhsingh\documents\visual studio 2012\Projects\DemoConsole\DemoConsole\bin\Debug\DemoConsole.pdb
 c:\users\subodhsingh\documents\visual studio 2012\Projects\DemoConsole\DemoConsole\obj\Debug\DemoConsole.exe
 c:\users\subodhsingh\documents\visual studio 2012\Projects\DemoConsole\DemoConsole\obj\Debug\DemoConsole.pdb
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\DemoConsole.exe.config
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\DemoConsole.exe
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\DemoConsole.pdb
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\mscorlib.dll
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\normidna.nlp
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\normnfc.nlp
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\normnfd.nlp
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\normnfkc.nlp
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\bin\Debug\normnfkd.nlp
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\obj\Debug\DemoConsole.CSPROJResolveAssemblyReference.cache
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\obj\Debug\DemoConsole.exe
+C:\Users\subodhsingh\Documents\DemoConsole\DemoConsole\obj\Debug\DemoConsole.pdb
